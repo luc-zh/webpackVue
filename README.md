@@ -75,7 +75,7 @@ entry:{
 npm run build
 `````
 - #### 会打包生成一个dist文件夹
-![生成的文件dist](./img/1.png)
+![生成的文件dist](https://github.com/luc-zh/webpackVue/blob/master/1.png)
 #### ****8.**** 引入loader兼容代码
 ````
 npm install babel-loader babel-core babel-preset-env -D
