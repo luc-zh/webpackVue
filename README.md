@@ -262,7 +262,7 @@ const webpack=require(webpack)
   ]
 ````
 - #### 热更新已经开启,现在为止webpack构建vue项目已经跑起来了,再进行一些优化
-#### ****15.****在resolve配置别名
+#### ****15.**** 在resolve配置别名
 ````
 resolve: {       
     extensions: ['.js', '.jsx','.ts','.tsx', '.scss','.json','.css'],       
