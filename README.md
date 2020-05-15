@@ -75,7 +75,7 @@ entry:{
 npm run build
 `````
 - #### 会打包生成一个dist文件夹
-![生成的文件dist](https://github.com/luc-zh/webpackVue/blob/master/1.png)
+![生成的文件dist](./img/1.png)
 #### ****8.**** 引入loader兼容代码
 ````
 npm install babel-loader babel-core babel-preset-env -D
@@ -151,7 +151,7 @@ div:{
 }
 ````
 - #### 可以看到文字颜色已经变红了
-![文字颜色](https://github.com/luc-zh/webpackVue/blob/master/2.png)
+![文字颜色](./img/2.png)
 #### ****11.**** 支持图片
 ````
 npm install file-loader url-loader -
@@ -243,7 +243,7 @@ new Vue({
   render: h => h(App)
 }).$mount("#app");
 ````
-![.vue文件输出](https://github.com/luc-zh/webpackVue/blob/master/3.png)
+![.vue文件输出](./img/5.png)
 #### ****14.**** 开启js热更新
 - #### 因为 vue-style-loader 封装了 style-loader，热更新开箱即用,但是 js 热更新还不能用，每次修改代码我们都会刷新浏览器，所以我们需要继续配置。
 ````
@@ -379,7 +379,7 @@ export default {
 ````
 npm run dev
 ````
-![router效果图](https://github.com/luc-zh/webpackVue/blob/master/4.png)
+![router效果图](./img/6.png)
 
 
 
