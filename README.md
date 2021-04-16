@@ -1,4 +1,4 @@
-# <center>2020.5.15 webapck4搭建vue2.0项目基本配置</center>
+# <center>webapck4搭建vue2.0项目基本配置</center>
 #### ***1.*** 新建名WebpckaConfig文件夹
 #### ***2.*** 使用命令
 ````
